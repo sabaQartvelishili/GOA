@@ -1,5 +1,0 @@
-a = int(input("Shemoitanet Ricxvi:"))
-b = int(input("Shemoitanet Ricxvi:"))
-c = int(input("Shemoitanet Ricxvi:"))
-d = int(input("Shemoitanet Ricxvi:"))
-print(a + b, a * b, a / b, a **b, a + c, a * c, a / c, a **c, a + d, a * d, a / d, a **d)
